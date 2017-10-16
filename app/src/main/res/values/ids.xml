@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="insert" type="id">xc</item>
+    <item name="delete" type="id">delete</item>
+    <item name="deleteall" type="id">deleteall</item>
+</resources>
